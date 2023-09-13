@@ -6,7 +6,6 @@ C:\Users\BBelt\source\repos\Blog\Blog\bin\Debug\net6.0\Blog.deps.json
 C:\Users\BBelt\source\repos\Blog\Blog\bin\Debug\net6.0\Blog.runtimeconfig.json
 C:\Users\BBelt\source\repos\Blog\Blog\bin\Debug\net6.0\Blog.dll
 C:\Users\BBelt\source\repos\Blog\Blog\bin\Debug\net6.0\Blog.pdb
-C:\Users\BBelt\source\repos\Blog\Blog\obj\Debug\net6.0\Blog.csproj.AssemblyReference.cache
 C:\Users\BBelt\source\repos\Blog\Blog\obj\Debug\net6.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\BBelt\source\repos\Blog\Blog\obj\Debug\net6.0\Blog.AssemblyInfoInputs.cache
 C:\Users\BBelt\source\repos\Blog\Blog\obj\Debug\net6.0\Blog.AssemblyInfo.cs
